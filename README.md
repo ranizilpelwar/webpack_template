@@ -6,5 +6,7 @@ Webpack, Babel, Karma and Jasmine.
 ## Try it out
 
 Setup: `npm install`
+
 Run app: `npm run start`, on `http://localhost:9100`
+
 Run tests: `npm run test`
